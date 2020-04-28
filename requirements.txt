@@ -1,0 +1,6 @@
+imbalanced-learn
+sklearn
+nltk
+pandas
+numpy
+jupyter
